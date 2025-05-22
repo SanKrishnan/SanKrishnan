@@ -3,7 +3,7 @@
 - 👀 I’m interested in Fullstack Development, Data Science and Competitive Programming 
 - 🌱 I’m currently learning Web Development and exploring Data Science 
 - 💞️ I’m looking to collaborate on different innovative projects
-- 📫 How to reach me https://www.linkedin.com/in/sanjana-krishnan-6010b0280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📫 How to reach me https://www.linkedin.com/in/sanjana-krishnan-6010b0280?
 - ⚡ Fun fact: I once managed unexpected crowd control at an event—turns out, organizing people is just as complex as debugging code!
 
 <!---
