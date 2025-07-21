@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sanjana Krishnan, 2nd year Computer Science Engineering student having experience in Java, Python(Pandas,Numpy, Matplotlib, Api Integration),Html,SQL,CSS,C++.
+- 👋 Hi, I’m Sanjana Krishnan, 2nd year Computer Science Engineering student having experience in Firebase,Java, Python(Pandas,Numpy, Matplotlib, Api Integration),HTML,SQL,CSS.
 - Tech Enthusiastic, Event Manager, Thriller Fanatic
 - 👀 I’m interested in Fullstack Development, Data Science and Competitive Programming 
 - 🌱 I’m currently learning Web Development and exploring Data Science 
