@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sanjana Krishnan, 3rd year Computer Science Engineering student having experience in Firebase,Java, Python(Pandas,Numpy, Matplotlib, Api Integration),HTML,SQL,CSS.
+- 👋 Hi, I’m Sanjana Krishnan, 3rd year Computer Science Engineering student having experience in Frontend, Databases, Data Analytics ana AI.
 - Tech Enthusiastic, Event Manager, Thriller Fanatic
 - 👀 I’m interested in Data Science and Competitive Programming 
-- 🌱 I’m currently learning Web Development and exploring Data Science 
+- 🌱 I’m currently learning AI/ML  
 - 💞️ I’m looking to collaborate on different innovative projects
 - 📫 How to reach me https://www.linkedin.com/in/sanjana-krishnan-6010b0280
 - ⚡ Fun fact: I once managed unexpected crowd control at an event—turns out, organizing people is just as complex as debugging code!
