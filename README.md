@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sanjana Krishnan, 3rd year Computer Science Engineering student having experience in Frontend, Databases, Data Analytics ana AI.
+- 👋 Hi, I’m Sanjana Krishnan, 4th year Computer Science Engineering student having experience in Frontend, Databases, Data Analytics ana AI.
 - Tech Enthusiastic, Event Manager, Thriller Fanatic
 - 👀 I’m interested in Data Science and Competitive Programming 
 - 🌱 I’m currently learning AI/ML  
